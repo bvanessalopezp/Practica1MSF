@@ -4,7 +4,7 @@
 # Práctica 1: Diseño de controladores
 
 ## Información del estudiante
-Nombres y Apellidos \[No. Control]; correo institucional
+Brianna Vanessa Lopez Pardo \[22212261]; l22212261@tectijuana.edu.nx
 
 Modelado de Sistemas Fisiológicos
 
