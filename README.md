@@ -1,7 +1,7 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=bvanessalopezp/Practica1MSF)
 
 
-# Práctica 1: Diseño de controladores
+# Práctica 1: Diseño de controladores de segundo orden 
 
 ## Información del estudiante
 Brianna Vanessa Lopez Pardo \[22212261]; l22212261@tectijuana.edu.nx
